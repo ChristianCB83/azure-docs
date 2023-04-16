@@ -350,6 +350,7 @@ Content-Type: application/json
   "federatedIdpMfaBehavior": "rejectMfaByFederatedIdp"
 }
 ```
+Please include the PowerShell tab with the cmdlets needed to update the domain federation, using Microsoft Graph PowerShell SDK as we have from the following doc: https://learn.microsoft.com/en-us/graph/api/internaldomainfederation-update?view=graph-rest-1.0&tabs=powershell#request 
 
 
 #### Response
